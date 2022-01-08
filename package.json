@@ -1,0 +1,22 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harry",
+  "license": "ISC",
+  "dependencies": {
+    "auto-generate": "0.0.8",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.3",
+    "mongoose": "^6.0.11",
+    "mongoose-sequence": "^5.3.1",
+    "morgan": "^1.10.0",
+    "uniqid": "^5.4.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
